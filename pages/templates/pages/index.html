@@ -1,0 +1,10 @@
+{% extends 'base.html' %}
+{% load slippers %}
+
+{% block content %}
+    {% include 'pages/partials/card.html' with title="Esse é um título" %}
+
+    {% #card title="Outro título" %}
+        {% lorem 1 b random %}
+    {% /card %}
+{% endblock content %}

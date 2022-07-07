@@ -1,0 +1,3 @@
+components:
+    card: 'pages/partials/card.html'
+    button: 'pages/partials/button.html'
