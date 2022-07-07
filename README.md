@@ -1,4 +1,4 @@
-# Compnentização utilizando Slippers
+# Componentização utilizando Slippers
 ---
 
 Uma forma simples de reutilizar componentes nos templates Django!
